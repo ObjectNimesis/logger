@@ -1,4 +1,4 @@
-package ObjectNimesislogger
+package logger
 
 import (
 	"fmt"
